@@ -74,8 +74,9 @@ My Work
 •	I analysed the data they have shown on their website as well as their app and created a small dataset for a single day. The dataset can be found in the follwoing SQL report:
 
                SQL Report Link -> 
-               
-               NAMMA_YATRI_ANALYSIS/Data_entry.sql at main · SANMATIMUTTIN/NAMMA_YATRI_ANALYSIS
+
+               https://github.com/SANMATIMUTTIN/NAMMA_YATRI_ANALYSIS/blob/main/Data_entry.sql
+             
                
 •	I created the database on MySQL and defined a schema structure to explain how the company might receive and collect data for each customer and driver through their app.
 
