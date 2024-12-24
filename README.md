@@ -72,11 +72,13 @@ Technologies Used
 My Work
 
 •	I analysed the data they have shown on their website as well as their app and created a small dataset for a single day. The dataset can be found in the follwoing SQL report:
+
                SQL Report Link ->  NAMMA_YATRI_ANALYSIS/Data_entry.sql at main · SANMATIMUTTIN/NAMMA_YATRI_ANALYSIS
                
 •	I created the database on MySQL and defined a schema structure to explain how the company might receive and collect data for each customer and driver through their app.
 
 •	I analysed the data collected and extracted various KPIs  and trends in the data. The analysis can be found in the following SQL report:
+
                 SQL Report Link ->  NAMMA_YATRI_ANALYSIS/Data_Exploration.sql at main · SANMATIMUTTIN/NAMMA_YATRI_ANALYSIS
                 
 •	Finally I created an interactive and dynamic PowerBi Dashboard based on the data I analyzed and tried to replicate similar to what they have shown on their website.
