@@ -1,5 +1,6 @@
 # NAMMA_YATRI_ANALYSIS
 
+
 Project Overview
 
 This repository showcases a project inspired by the Namma Yatri website. 
@@ -11,6 +12,7 @@ Website Link -> https://www.nammayatri.in/open?cc=
 
 They have shown an open data analyzing completed trips, earnings, drivers, conversion rate etc. on basis of location and duration on their website.
 
+________________________________________
 
 
 
@@ -22,7 +24,7 @@ Table of Contents
 4.	Technologies Used
 5.	My Work
 6.	Overall Analytics Report (Power BI Dashboard)
-
+________________________________________
 Problem Statement
 
 I wanted to study and experiment how the company collects real time data of their customers, drivers, completed trips etc. 
@@ -46,7 +48,7 @@ Some of their application features which I noticed were:
 
 •	Data of clicks for each customer who successfully completed the ride.
 
-
+________________________________________
 Features
 
 •	Data Preparation: Created a dummy dataset representing ride-sharing operations.
@@ -57,7 +59,7 @@ Features
 
 •	Dashboard: Built a Power BI dashboard to visualize trends and performance metrics.
 
-
+________________________________________
 Technologies Used
 
 •	MySQL: For data analysis and query execution.
@@ -67,7 +69,7 @@ Technologies Used
 •	Power BI: For data visualization and dashboard creation.
 
 •	GitHub: For project sharing
-
+________________________________________
 
 My Work
 
@@ -88,8 +90,11 @@ My Work
                 
 •	Finally I created an interactive and dynamic PowerBi Dashboard based on the data I analyzed and tried to replicate similar to what they have shown on their website.
 
-
+________________________________________
 Overall Analytics Report (Power BI Dashboard)
 
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/af2a2ea8-b2ce-488a-8fbc-ce608aa2c504)
+
+
+
